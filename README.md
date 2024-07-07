@@ -1,7 +1,7 @@
 # Project-8-Monitoring-Project
 ## Monotoring Project 
 
-![Capture1](https://user-images.githubusercontent.com/74002629/185382955-28d67f00-8b19-4caa-8dd2-048cea6c0b74.PNG)
+![Grafana](https://github.com/Hatem-sudo/Project-8-Monitoring-Project/assets/113099054/f3dc08ef-361c-4daa-8bd0-5c6f04460a34)
 
 #### Project Description
 -. Monotoring Project with prometheus and Grafana 
